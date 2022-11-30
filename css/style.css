@@ -2,9 +2,8 @@ body {
     text-align: center;
 }
 
-.lacivert {
+.dark-blue {
     color:navy ;
-    text-align: center;
 }
 
 .fs-48 {
@@ -12,15 +11,13 @@ body {
 }
 
 ul {
-    text-align: center;
     display: inline-block;
 }
 
 ol {
-    text-align: center;
     display: inline-block;
 }
-.başlık3 {
+.title {
     text-align: left;
     color:darkorange;
 }
