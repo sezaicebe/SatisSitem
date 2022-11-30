@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+}
+
+.lacivert {
+    color:navy ;
+    text-align: center;
+}
+
+.fs-48 {
+    font-size: 48px;
+}
+
+ul {
+    text-align: center;
+    display: inline-block;
+}
+
+ol {
+    text-align: center;
+    display: inline-block;
+}
+.başlık3 {
+    text-align: left;
+    color:darkorange;
+}
+.left {
+    text-align: left;
+}
